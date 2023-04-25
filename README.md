@@ -1,4 +1,4 @@
-# evanerichards.com-Scraper
+# Scraper for evanerichards.com
 
 ## To run: 
 1) install all packages.
